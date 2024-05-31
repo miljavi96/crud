@@ -25,7 +25,7 @@ export class EmpleadoListPage implements OnInit {
 
   ngOnInit() {
 
-    this.iniciar();
+    //this.iniciar();
   }
   ionViewWillEnter() {
     this.iniciar();
